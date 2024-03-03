@@ -6,13 +6,13 @@
   },
   {
     "icon": "Fire",
-    "name": "关于",
+    "name": "关于我",
     "link": "https://blog.zhaoziyi.site/about"
   },
   {
     "icon": "Cloud",
-    "name": "网盘（开发中）",
-    "link": "#"
+    "name": "ChatGPT",
+    "link": "http://class4.zhaoziyi.site/"
   },
   {
     "icon": "CompactDisc",
@@ -25,13 +25,13 @@
     "link": "https://www.zhaoziyi.site"
   },
   {
-    "icon": "Book",
-    "name": "友友们",
+    "icon": "LaptopCode",
+    "name": "好友们",
     "link": "https://blog.zhaoziyi.site/links"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测（开发中）",
-    "link": "#"
+    "icon": "Book",
+    "name": "同学录",
+    "link": "http://class4.zhaoziyi.site/"
   }
 ]
